@@ -1,7 +1,7 @@
 = Quick start Hazelcast with Gradle
-Viktor Gamov <viktor@hazelcast.com>, © 2015 Hazelcast, Inc.
+Viktor Gamov <viktor@hazelcast.com>, © 2016 Hazelcast, Inc.
 2015-01-09
-:revdate: 2015-01-09 15:34:02 -0600
+:revdate: 2016-25-01 13:40:02 -0600
 :linkattrs:
 :ast: &ast;
 :y: &#10003;

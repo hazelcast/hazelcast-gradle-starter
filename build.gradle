@@ -42,15 +42,22 @@ dependencies {
 
     compile "com.hazelcast:hazelcast:$HZ_VERSION"
     compile "com.hazelcast:hazelcast-client:$HZ_VERSION"
-    // compile "com.hazelcast:hazelcast-client-new:$HZ_VERSION"
+    // compile "com.hazelcast:hazelcast-client-legacy:$HZ_VERSION"
     // compile "com.hazelcast:hazelcast-wm:$HZ_VERSION"
     // compile "com.hazelcast:hazelcast-spring:$HZ_VERSION"
+
+    // Cloud Support
     // compile "com.hazelcast:hazelcast-cloud:$HZ_VERSION"
+    // compile "com.hazelcast:hazelcast-jclouds:$HZ_VERSION"
+
+    // Hibernate 2nd Level Cache Support
+    // compile "com.hazelcast:hazelcast-hibernate:$HZ_VERSION"
+    // compile "com.hazelcast:hazelcast-hibernate3:$HZ_VERSION"
+    // compile "com.hazelcast:hazelcast-hibernate4:$HZ_VERSION"
 
     // Hazelcast Enterprise
     // compile "com.hazelcast:hazelcast-enterprise:$HZ_VERSION"
     // compile "com.hazelcast:hazelcast-enterprise-client:$HZ_VERSION"
-    // compile "com.hazelcast:hazelcast-enterprise-client-new:$HZ_VERSION"
 
     // JCache dependency
     compile "javax.cache:cache-api:1.0.0"
