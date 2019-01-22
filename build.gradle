@@ -29,12 +29,12 @@ repositories {
 
     maven {
         name 'Hazelcast Enterprise Releases'
-        url 'https://repository-hazelcast-l337.forge.cloudbees.com/release/'
+        url 'https://repository.hazelcast.com/release/'
     }
 
     maven {
         name 'Hazelcast Enterprise Snapshots'
-        url 'https://repository-hazelcast-l337.forge.cloudbees.com/snapshot/'
+        url 'https://repository.hazelcast.com/snapshot/'
     }
 }
 
